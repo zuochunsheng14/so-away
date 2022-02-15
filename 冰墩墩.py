@@ -1,5 +1,3 @@
-
-
 import turtle as t
 
 t.title("冰墩墩")
